@@ -1,0 +1,8 @@
+***NOTE***
+This project will not build without the allocate routines, which was supplied by the professor.
+Thus, you will not be able to run this for correctness
+
+This project is meant to demonstrate a library database, with patrons storing references to 
+all of the books they have checked out, and all of the books storing references to the 
+patrons who are checking them out. The program had other constraints, like restricting
+the amount of memory we would need to get extra credit points on the assignment.
